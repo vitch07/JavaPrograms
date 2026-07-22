@@ -1,0 +1,40 @@
+2026-07-21 17:50:08,905 - INFO - Dashboard execution started
+2026-07-21 17:50:08,964 - INFO - investors.csv loaded successfully
+2026-07-21 17:50:08,970 - INFO - funds.csv loaded successfully
+2026-07-21 17:50:08,974 - INFO - transactions.csv loaded successfully
+2026-07-21 17:50:08,978 - INFO - nav_history.csv loaded successfully
+2026-07-21 17:50:09,135 - INFO - AnnualIncome missing values filled
+2026-07-21 17:50:09,135 - INFO - RiskProfile filled
+2026-07-21 17:50:09,136 - INFO - ExpenseRatio missing values filled
+2026-07-21 17:50:09,138 - INFO - NAV forward filled
+2026-07-21 17:50:09,143 - INFO - Duplicates Removed : 0
+2026-07-21 17:50:09,155 - INFO - Amount Outliers Removed (>99th pct): 1
+2026-07-21 17:50:09,155 - INFO - NAV Outliers Removed
+2026-07-21 17:50:09,171 - INFO - Data Merged Successfully
+2026-07-21 17:50:09,176 - INFO - Derived Columns Created
+2026-07-21 17:50:09,178 - INFO - investors.csv loaded successfully
+2026-07-21 17:50:09,180 - INFO - funds.csv loaded successfully
+2026-07-21 17:50:09,182 - INFO - transactions.csv loaded successfully
+2026-07-21 17:50:09,183 - INFO - nav_history.csv loaded successfully
+2026-07-21 17:50:09,185 - INFO - AnnualIncome missing values filled
+2026-07-21 17:50:09,185 - INFO - RiskProfile filled
+2026-07-21 17:50:09,186 - INFO - ExpenseRatio missing values filled
+2026-07-21 17:50:09,186 - INFO - NAV forward filled
+2026-07-21 17:50:09,188 - INFO - Duplicates Removed : 0
+2026-07-21 17:50:09,198 - INFO - NumPy statistics calculated
+2026-07-21 17:50:09,203 - INFO - Finance metrics calculated
+2026-07-21 17:50:09,215 - INFO - Fund analysis completed
+2026-07-21 17:50:09,221 - INFO - Top 20 investors identified
+2026-07-21 17:50:09,234 - INFO - High-value investors identified
+2026-07-21 17:50:10,580 - INFO - Top 10 investors identified
+2026-07-21 17:50:10,832 - INFO - All charts generated
+2026-07-21 17:50:10,836 - INFO - Top 20 investors identified
+2026-07-21 17:50:10,850 - INFO - High-value investors identified
+2026-07-21 17:50:10,855 - INFO - Investor-wise profit/loss calculated
+2026-07-21 17:50:10,874 - INFO - Fund analysis completed
+2026-07-21 17:50:10,879 - INFO - NumPy statistics calculated
+2026-07-21 17:50:10,881 - INFO - Finance metrics calculated
+2026-07-21 17:50:10,890 - INFO - Fund analysis completed
+2026-07-21 17:50:10,891 - INFO - Report generated at reports/portfolio_report.txt
+2026-07-21 17:50:10,892 - INFO - All reports exported
+2026-07-21 17:50:10,892 - INFO - Dashboard execution completed successfully

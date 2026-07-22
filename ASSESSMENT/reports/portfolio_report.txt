@@ -1,0 +1,35 @@
+MUTUAL FUND PORTFOLIO PERFORMANCE REPORT
+==================================================
+
+NUMPY STATISTICS
+--------------------------------------------------
+MeanInvestmentAmount: 2907.282
+MedianInvestorIncome: 1170000.0
+StdDevNAV: 13.4023
+FundReturn_90thPercentile: 3.4385
+FundReturn_95thPercentile: 3.4526
+Corr_Income_Investment: -0.1299
+AverageDailyNAV: 35.12
+
+FINANCE METRICS
+--------------------------------------------------
+TotalPortfolioValue: 141333.8
+TotalInvested: 139337.09999999998
+AbsoluteReturn: 1996.7000000000116
+PortfolioReturnPct: 1.4329995385292302
+AverageHoldingPeriodDays: 196.59183673469389
+CAGR: 2.676881210627946
+AnnualizedReturn: 2.6605623114912578
+DiversificationScore: 0.7838825619888417
+ExpenseRatioImpact: 1515.7328959183674
+SharpeRatio: -4.652959340014826
+CategoryWiseInvestmentPct: {'Debt': 14.14, 'Equity': 64.19, 'Hybrid': 21.66}
+FundAllocationPct: {'Alpha Growth Fund': 16.86, 'Balanced Advantage Fund': 21.63, 'Bluechip Equity Fund': 17.02, 'Corporate Bond Fund': 14.19, 'Small Cap Opportunities': 30.3}
+
+FUND ANALYSIS
+--------------------------------------------------
+BestPerformingFund: Bluechip Equity Fund
+WorstPerformingFund: Small Cap Opportunities
+HighestExpenseRatioFund: Small Cap Opportunities
+HighestAUMFund: Small Cap Opportunities
+MostPopularFund: Alpha Growth Fund
